@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "762444817255",
+    "project_id": "heydude-bde92",
+    "storage_bucket": "heydude-bde92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762444817255:android:6b593d932e85f80410c5c2",
+        "android_client_info": {
+          "package_name": "com.example.heydude"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762444817255-uqqvsiulrftpq9iv0ejsuv341v33v55s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heydude",
+            "certificate_hash": "c603b8b57fbe68bde5494e70b148aabb5827700a"
+          }
+        },
+        {
+          "client_id": "762444817255-1rvvro8drvrvd81pcitade2tv8hqvucm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZnfpyNOPoYOYnKH-hKLwNdIqipwgBoHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762444817255-1rvvro8drvrvd81pcitade2tv8hqvucm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
